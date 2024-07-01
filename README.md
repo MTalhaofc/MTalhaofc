@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **GearNexusWeb**
 
-- 👨‍💻 All of my projects are available at [https://mtalhaofc.netlify.app](https://mtalhaofc.netlify.app)
+- 👨‍💻 All of my projects are available at [https://mtalha.me](https://mtalha.me)
 
 - 💬 Ask me about **Android, Laravel, Tailwind, Reactjs**
 
