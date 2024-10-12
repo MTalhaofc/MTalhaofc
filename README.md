@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **EzHealth**
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **Android , Vuejs**
 
 - 👯 I’m looking to collaborate on **Cui Paper Sum**
 
