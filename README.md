@@ -1,35 +1,169 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MTalhaofc/MTalhaofc/main/download.png" width="600"/>
+</div>
 
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Talha</h1>
-<h3 align="center">A Software Engineer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mtalhaofc&label=Profile%20views&color=0e75b6&style=flat" alt="mtalhaofc" /> </p>
+<h3 align="center">🚀 A Passionate Software Engineer from Pakistan 🇵🇰</h3>
 
-- 🔭 I’m currently working on **EzHealth**
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=mtalhaofc&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<!-- https://komarev.com/ghpvc/?username=mtalhaofc&label=Profile%20views&color=0e75b6&style=flat -->
+  <!-- GitHub Follow -->
+  <a href="https://github.com/MTalhaofc?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/MTalhaofc?label=Follow&logo=github&style=for-the-badge" alt="Follow @MTalhaofc" />
+  </a>
 
-- 🌱 I’m currently learning **Android , Vuejs**
-
-- 👯 I’m looking to collaborate on **Cui Paper Sum**
-
-- 👨‍💻 All of my projects are available at [https://mtalha.me](https://mtalha.me)
-
-- 💬 Ask me about **Android, Laravel, Tailwind, Vuejs , Azure**
-
-- 📫 How to reach me **talha0750@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad-talha-offofc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-talha-offofc" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22458056/muhammad-talha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad-talha" height="30" width="40" /></a>
-<a href="https://instagram.com/_talha.xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_talha.xd" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/muhammad_talha_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammad_talha_dev" height="30" width="40" /></a>
+  <!-- GitHub Star -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtalhaofc&show_icons=true&locale=en&layout=compact" alt="mtalhaofc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtalhaofc&show_icons=true&locale=en" alt="mtalhaofc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtalhaofc&" alt="MTalhaofc" /></p>
+---
+
+### 🧠 About Me
+
+- 🔭 I’m currently working on: **Backend & Devops**
+- 🌱 Currently learning: **Laravel, RestAPI, Full Stack**
+- 💬 Ask me about: `laravel`, `Backend`, `Databases`, `Tailwind`, `Azure`
+- 👨‍💻 Portfolio: [mtalhaofc](https://mtalhaofc.github.io/Portfolio)
+- 📫 Reach me at: **talha0750@gmail.com**
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/mtalhaofc" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://stackoverflow.com/users/22458056/muhammad-talha" target="_blank">
+    <img src="https://img.shields.io/badge/💬%20StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+  
+ 
+  <a href="https://leetcode.com/muhammad_talha_dev" target="_blank">
+    <img src="https://img.shields.io/badge/🧠%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  
+  <a href="https://mtalhaofc.medium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/✍️%20Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  
+  <a href="https://www.upwork.com/freelancers/~013ffd268518c1559d?viewMode=1" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+   <a href="https://instagram.com/_talha.xd" target="_blank">
+    <img src="https://img.shields.io/badge/📸%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <!-- Android -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android" />
+
+  <!-- Java -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+
+  <!-- Kotlin -->
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40" alt="Kotlin" />
+
+  <!-- PHP -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
+
+  <!-- Laravel -->
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" height="40" alt="Laravel" />
+
+  <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+
+  <!-- Vue.js -->
+  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40" height="40" alt="Vue.js" />
+
+  <!-- React -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
+
+  <!-- Tailwind CSS -->
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" />
+
+  <!-- MySQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+
+  <!-- MongoDB -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />
+
+  <!-- Firebase -->
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase" />
+
+  <!-- Google Cloud -->
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="Google Cloud" />
+
+  <!-- Azure -->
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" alt="Azure" />
+
+  <!-- Postman -->
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" />
+
+
+  <!-- Git -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+
+  <!-- Linux -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+
+  <!-- Figma -->
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" />
+
+ 
+  <!-- VS Code -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+
+  <!-- Android Studio -->
+  <img src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png" width="40" height="40" alt="Android Studio" />
+</p>
+
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mtalhaofc&show_icons=true&theme=default&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtalhaofc&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtalhaofc&" alt="GitHub Streak" />
+</p>
+
+---
+---
+
+## 💖 Support
+
+If you like my work and want to support me:
+
+<p align="center">
+  <a href="https://github.com/MTalhaofc?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/MTalhaofc?label=Follow&logo=github&style=for-the-badge" alt="Follow @MTalhaofc" />
+  </a>
+
+
+
+  <a href="mailto:talha0750@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+</p>
+
+---
+
+⭐ Don’t forget to **star** this repo and **follow** me for more awesome projects!
+
