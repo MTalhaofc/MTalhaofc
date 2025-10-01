@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Muhammad Talha</h1>
-<h3 align="center">🚀 A Passionate Software Engineer from Pakistan 🇵🇰</h3>
+<h3 align="center">🚀 Cloud Data Engineer from Pakistan 🇵🇰</h3>
 
 <p align="center">
   <!-- Profile Views -->
